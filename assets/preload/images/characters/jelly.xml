@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jelly.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jellydown0000" x="29" y="57" width="466" height="387" frameX="-16" frameY="-36" frameWidth="489" frameHeight="423"/>
+	<SubTexture name="jellydown0001" x="29" y="57" width="466" height="387" frameX="-16" frameY="-36" frameWidth="489" frameHeight="423"/>
+	<SubTexture name="jellydown0002" x="496" y="57" width="489" height="422" frameX="0" frameY="0" frameWidth="489" frameHeight="423"/>
+	<SubTexture name="jellydown0003" x="496" y="57" width="489" height="422" frameX="0" frameY="0" frameWidth="489" frameHeight="423"/>
+	<SubTexture name="jellydown0004" x="986" y="57" width="488" height="416" frameX="-1" frameY="-6" frameWidth="489" frameHeight="423"/>
+	<SubTexture name="jellydown0005" x="986" y="57" width="488" height="416" frameX="-1" frameY="-6" frameWidth="489" frameHeight="423"/>
+	<SubTexture name="jellydown0006" x="986" y="57" width="488" height="416" frameX="-1" frameY="-6" frameWidth="489" frameHeight="423"/>
+	<SubTexture name="jellyidle0000" x="1479" y="60" width="586" height="451" frameX="-26" frameY="0" frameWidth="636" frameHeight="451"/>
+	<SubTexture name="jellyidle0001" x="1479" y="60" width="586" height="451" frameX="-26" frameY="0" frameWidth="636" frameHeight="451"/>
+	<SubTexture name="jellyidle0002" x="2067" y="60" width="617" height="450" frameX="-10" frameY="-1" frameWidth="636" frameHeight="451"/>
+	<SubTexture name="jellyidle0003" x="2067" y="60" width="617" height="450" frameX="-10" frameY="-1" frameWidth="636" frameHeight="451"/>
+	<SubTexture name="jellyidle0004" x="2685" y="60" width="628" height="450" frameX="-4" frameY="-1" frameWidth="636" frameHeight="451"/>
+	<SubTexture name="jellyidle0005" x="2685" y="60" width="628" height="450" frameX="-4" frameY="-1" frameWidth="636" frameHeight="451"/>
+	<SubTexture name="jellyidle0006" x="3314" y="60" width="634" height="450" frameX="-1" frameY="-1" frameWidth="636" frameHeight="451"/>
+	<SubTexture name="jellyidle0007" x="3314" y="60" width="634" height="450" frameX="-1" frameY="-1" frameWidth="636" frameHeight="451"/>
+	<SubTexture name="jellyidle0008" x="30" y="591" width="636" height="450" frameX="0" frameY="-1" frameWidth="636" frameHeight="451"/>
+	<SubTexture name="jellyidle0009" x="30" y="591" width="636" height="450" frameX="0" frameY="-1" frameWidth="636" frameHeight="451"/>
+	<SubTexture name="jellyidle0010" x="666" y="591" width="636" height="450" frameX="0" frameY="-1" frameWidth="636" frameHeight="451"/>
+	<SubTexture name="jellyidle0011" x="666" y="591" width="636" height="450" frameX="0" frameY="-1" frameWidth="636" frameHeight="451"/>
+	<SubTexture name="jellyidle0012" x="666" y="591" width="636" height="450" frameX="0" frameY="-1" frameWidth="636" frameHeight="451"/>
+	<SubTexture name="jellyidle0013" x="666" y="591" width="636" height="450" frameX="0" frameY="-1" frameWidth="636" frameHeight="451"/>
+	<SubTexture name="jellyidle0014" x="666" y="591" width="636" height="450" frameX="0" frameY="-1" frameWidth="636" frameHeight="451"/>
+	<SubTexture name="jellyidle0015" x="666" y="591" width="636" height="450" frameX="0" frameY="-1" frameWidth="636" frameHeight="451"/>
+	<SubTexture name="jellyidle0016" x="666" y="591" width="636" height="450" frameX="0" frameY="-1" frameWidth="636" frameHeight="451"/>
+	<SubTexture name="jellyidle0017" x="666" y="591" width="636" height="450" frameX="0" frameY="-1" frameWidth="636" frameHeight="451"/>
+	<SubTexture name="jellyidle0018" x="666" y="591" width="636" height="450" frameX="0" frameY="-1" frameWidth="636" frameHeight="451"/>
+	<SubTexture name="jellyleft0000" x="1315" y="605" width="684" height="449" frameX="0" frameY="0" frameWidth="685" frameHeight="449"/>
+	<SubTexture name="jellyleft0001" x="1315" y="605" width="684" height="449" frameX="0" frameY="0" frameWidth="685" frameHeight="449"/>
+	<SubTexture name="jellyleft0002" x="1990" y="605" width="666" height="449" frameX="-19" frameY="0" frameWidth="685" frameHeight="449"/>
+	<SubTexture name="jellyleft0003" x="1990" y="605" width="666" height="449" frameX="-19" frameY="0" frameWidth="685" frameHeight="449"/>
+	<SubTexture name="jellyleft0004" x="2656" y="605" width="667" height="449" frameX="-18" frameY="0" frameWidth="685" frameHeight="449"/>
+	<SubTexture name="jellyleft0005" x="2656" y="605" width="667" height="449" frameX="-18" frameY="0" frameWidth="685" frameHeight="449"/>
+	<SubTexture name="jellyleft0006" x="2656" y="605" width="667" height="449" frameX="-18" frameY="0" frameWidth="685" frameHeight="449"/>
+	<SubTexture name="jellymissdown0000" x="29" y="57" width="466" height="387" frameX="-16" frameY="-35" frameWidth="489" frameHeight="423"/>
+	<SubTexture name="jellymissleft0000" x="1315" y="605" width="684" height="449" frameX="0" frameY="0" frameWidth="685" frameHeight="448"/>
+	<SubTexture name="jellymissright0000" x="58" y="1077" width="531" height="453" frameX="-7" frameY="0" frameWidth="538" frameHeight="453"/>
+	<SubTexture name="jellymissup0000" x="4084" y="2843" width="586" height="538"/>
+	<SubTexture name="jellyright0000" x="58" y="1077" width="531" height="453" frameX="-7" frameY="0" frameWidth="538" frameHeight="453"/>
+	<SubTexture name="jellyright0001" x="58" y="1077" width="531" height="453" frameX="-7" frameY="0" frameWidth="538" frameHeight="453"/>
+	<SubTexture name="jellyright0002" x="586" y="1077" width="523" height="453" frameX="0" frameY="0" frameWidth="538" frameHeight="453"/>
+	<SubTexture name="jellyright0003" x="586" y="1077" width="523" height="453" frameX="0" frameY="0" frameWidth="538" frameHeight="453"/>
+	<SubTexture name="jellyright0004" x="1109" y="1077" width="524" height="453" frameX="-1" frameY="0" frameWidth="538" frameHeight="453"/>
+	<SubTexture name="jellyright0005" x="1109" y="1077" width="524" height="453" frameX="-1" frameY="0" frameWidth="538" frameHeight="453"/>
+	<SubTexture name="jellyright0006" x="1109" y="1077" width="524" height="453" frameX="-1" frameY="0" frameWidth="538" frameHeight="453"/>
+	<SubTexture name="jellyup0000" x="1652" y="1085" width="587" height="537"/>
+	<SubTexture name="jellyup0001" x="1652" y="1085" width="587" height="537"/>
+	<SubTexture name="jellyup0002" x="2300" y="1191" width="586" height="506" frameX="0" frameY="-30" frameWidth="587" frameHeight="537"/>
+	<SubTexture name="jellyup0003" x="2300" y="1191" width="586" height="506" frameX="0" frameY="-30" frameWidth="587" frameHeight="537"/>
+	<SubTexture name="jellyup0004" x="2886" y="1191" width="586" height="508" frameX="0" frameY="-28" frameWidth="587" frameHeight="537"/>
+	<SubTexture name="jellyup0005" x="2886" y="1191" width="586" height="508" frameX="0" frameY="-28" frameWidth="587" frameHeight="537"/>
+	<SubTexture name="jellyup0006" x="2886" y="1191" width="586" height="508" frameX="0" frameY="-28" frameWidth="587" frameHeight="537"/>
+</TextureAtlas>
