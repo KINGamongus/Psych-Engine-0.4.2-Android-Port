@@ -46,6 +46,10 @@ class CreditsState extends MusicBeatState
 		add(grpOptions);
 
 		var pisspoop = [ //Name - Icon name - Description - Link - BG Color
+			
+						['X Modpack Team'],
+			['LEPRONCIO YT',		    'leproncio',		    'sprites opt y coder',	 'https://www.youtube.com/channel/UC3QdGLjPVpnA8ZhCKHfpaqQ',	'0xFFFFDD33'],
+					['SkD_KING',		    'king',		    'principal coder del modpack jeje hola papus',	 'https://www.youtube.com/channel/UCy3sU4Y5LTywltHs0e9wrmw',	'0xFFFFBB1B'],
 			['Psych Engine Android Port'],
 			['M.A. Jigsaw',		    'majigsaw',		    'Main Coder of The Port',	 'https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ',	'0xFFC30085'],
 			['Psych Engine Team'],
