@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="frontbounce.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="frontbounce0000" x="5" y="5" width="2317" height="798" frameX="-8" frameY="-26" frameWidth="2373" frameHeight="824"/>
+	<SubTexture name="frontbounce0001" x="5" y="5" width="2317" height="798" frameX="-8" frameY="-26" frameWidth="2373" frameHeight="824"/>
+	<SubTexture name="frontbounce0002" x="5" y="808" width="2324" height="793" frameX="-6" frameY="-22" frameWidth="2373" frameHeight="824"/>
+	<SubTexture name="frontbounce0003" x="5" y="808" width="2324" height="793" frameX="-6" frameY="-22" frameWidth="2373" frameHeight="824"/>
+	<SubTexture name="frontbounce0004" x="5" y="1606" width="2352" height="810" frameX="-4" frameY="-2" frameWidth="2373" frameHeight="824"/>
+	<SubTexture name="frontbounce0005" x="5" y="1606" width="2352" height="810" frameX="-4" frameY="-2" frameWidth="2373" frameHeight="824"/>
+</TextureAtlas>
